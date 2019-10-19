@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinecraftManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinecraftManager_jar</output-path>
+    <root id="archive" name="MinecraftManager.jar">
+      <element id="module-output" name="MinecraftManager" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/com/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
